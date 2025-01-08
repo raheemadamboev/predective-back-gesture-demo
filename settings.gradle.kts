@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "PredectiveBackGestureDemo"
+rootProject.name = "PredictiveBackGestureDemo"
 include(":app")

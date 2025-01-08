@@ -6,11 +6,11 @@ plugins {
 }
 
 android {
-    namespace = "xyz.teamgravity.predectivebackgesturedemo"
+    namespace = "xyz.teamgravity.predictivebackgesturedemo"
     compileSdk = libs.versions.sdk.compile.get().toInt()
 
     defaultConfig {
-        applicationId = "xyz.teamgravity.predectivebackgesturedemo"
+        applicationId = "xyz.teamgravity.predictivebackgesturedemo"
         minSdk = libs.versions.sdk.min.get().toInt()
         targetSdk = libs.versions.sdk.target.get().toInt()
         versionCode = 1

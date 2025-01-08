@@ -1,4 +1,4 @@
-package xyz.teamgravity.predectivebackgesturedemo.ui.theme
+package xyz.teamgravity.predictivebackgesturedemo.ui.theme
 
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
@@ -23,7 +23,7 @@ private val LightColorScheme = lightColorScheme(
 )
 
 @Composable
-fun PredectiveBackGestureDemoTheme(
+fun PredictiveBackGestureDemoTheme(
     darkTheme: Boolean = isSystemInDarkTheme(),
     dynamicColor: Boolean = true,
     content: @Composable () -> Unit
